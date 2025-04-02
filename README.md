@@ -1,5 +1,5 @@
 
-https://user-images.githubusercontent.com/86003701/138392061-a259cfed-3074-4922-96ba-339ed7339d4e.mp4
+
 
 
 A website built with React as client that helps in picking the perfect movie to watch by showing them in different categories
