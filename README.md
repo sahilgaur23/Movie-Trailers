@@ -1,4 +1,4 @@
-[Watch the video here](https://streamable.com/18giw7)
+https://github.com/user-attachments/assets/ff50b5d3-ad91-4e25-a7d4-c64a1f1bf5a4
 
 
 A website built with React as client that helps in picking the perfect movie to watch by showing them in different categories
