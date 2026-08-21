@@ -20,7 +20,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
                 setError(null);
                 return request;
             } catch (error) {
-                console.error(`Error fetching ${title} movies:`, error);
+                console.error(`Error fetching ${title} movies:`, error)
                 setError("Failed to load movies");
             }
         }
